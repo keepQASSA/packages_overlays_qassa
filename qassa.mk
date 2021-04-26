@@ -8,3 +8,15 @@ PRODUCT_PACKAGES += \
     GVM-URM-L \
     GVM-URM-R \
     GVM-QSL-W
+
+# Statusbar Icons
+PRODUCT_PACKAGES += \
+    StrokeSignalOverlay \
+    SneakySignalOverlay \
+    XperiaSignalOverlay
+
+# Wi-Fi Icons
+PRODUCT_PACKAGES += \
+    StrokeWiFiOverlay \
+    SneakyWiFiOverlay \
+    XperiaWiFiOverlay
