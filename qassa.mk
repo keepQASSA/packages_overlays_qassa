@@ -10,22 +10,52 @@ PRODUCT_PACKAGES += \
 
 # Statusbar Icons
 PRODUCT_PACKAGES += \
-    StrokeSignalOverlay \
+    AcherusSignalOverlay \
+    DoraSignalOverlay \
     SneakySignalOverlay \
     XperiaSignalOverlay \
     ZigZagSignalOverlay \
     WavySignalOverlay \
     RoundSignalOverlay \
     InsideSignalOverlay \
-    BarsSignalOverlay
+    BarsSignalOverlay \
+    AquariumSignalOverlay \
+    ButterflySignalOverlay \
+    DaunSignalOverlay \
+    DecSignalOverlay \
+    DeepSignalOverlay \
+    EqualSignalOverlay \
+    FanSignalOverlay \
+    HuaweiSignalOverlay \
+    RelSignalOverlay \
+    ScrollSignalOverlay \
+    SeaSignalOverlay \
+    StackSignalOverlay \
+    WannuiSignalOverlay \
+    WindowsSignalOverlay \
+    WingSignalOverlay \
+    CircleSignalOverlay \
+    IosSignalOverlay \
+    MiniSignalOverlay \
+    OdinSignalOverlay \
+    PillsSignalOverlay \
+    RomanSignalOverlay  \
+    NothingDotSignalOverlay \
+    OutlineSignalOverlay \
+    PUISignalOverlay
 
 # Wi-Fi Icons
 PRODUCT_PACKAGES += \
-    StrokeWiFiOverlay \
+    DoraWiFiOverlay \
+    AcherusWiFiOverlay \
     SneakyWiFiOverlay \
     XperiaWiFiOverlay \
     ZigZagWiFiOverlay \
     WavyWiFiOverlay \
+    WeedWiFiOverlay \
     RoundWiFiOverlay \
     InsideWiFiOverlay \
-    BarsWiFiOverlay
+    BarsWiFiOverlay \
+    OutlineWiFiOverlay \
+    NothingDotWiFiOverlay \
+    PavlovaWiFiOverlay
