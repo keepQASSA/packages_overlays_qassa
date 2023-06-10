@@ -7,7 +7,8 @@ PRODUCT_PACKAGES += \
     GVM-URM-M \
     GVM-URM-L \
     GVM-URM-R \
-    GVM-QSL-W
+    GVM-QSL-W \
+    GVM-QSH-T
 
 # Statusbar Icons
 PRODUCT_PACKAGES += \

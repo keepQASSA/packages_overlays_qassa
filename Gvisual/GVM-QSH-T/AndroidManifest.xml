@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ghou8s.gvisualmod.qsh_t"
+    android:versionCode="1"
+    android:versionName="1.0">
+    <overlay android:targetPackage="com.android.systemui" android:priority="2"/>
+
+    <application android:label="QS HEADER TRANSPARENT" android:hasCode="false"/>
+</manifest>
