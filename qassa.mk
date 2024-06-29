@@ -42,6 +42,8 @@ PRODUCT_PACKAGES += \
     RomanSignalOverlay  \
     NothingDotSignalOverlay \
     OutlineSignalOverlay \
+    IOSSignalOverlay \
+    ColorOsSignalOverlay \
     PUISignalOverlay
 
 # Wi-Fi Icons
@@ -58,4 +60,5 @@ PRODUCT_PACKAGES += \
     BarsWiFiOverlay \
     OutlineWiFiOverlay \
     NothingDotWiFiOverlay \
+    ColorOsWiFiOverlay \
     PavlovaWiFiOverlay
